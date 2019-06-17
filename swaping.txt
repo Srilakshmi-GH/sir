@@ -7,3 +7,4 @@ arrays
 pointers
 structures
 strings
+linked_list
