@@ -8,3 +8,8 @@ pointers
 structures
 strings
 linked_list
+
+
+
+loops
+patterens
